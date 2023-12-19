@@ -1,0 +1,12 @@
+C:\Users\wadi\source\repos\MySqlproject\bin\Debug\MySqlproject.exe.config
+C:\Users\wadi\source\repos\MySqlproject\bin\Debug\MySqlproject.exe
+C:\Users\wadi\source\repos\MySqlproject\bin\Debug\MySqlproject.pdb
+C:\Users\wadi\source\repos\MySqlproject\bin\Debug\MySql.Data.dll
+C:\Users\wadi\source\repos\MySqlproject\obj\Debug\MySqlproject.csproj.AssemblyReference.cache
+C:\Users\wadi\source\repos\MySqlproject\obj\Debug\MySqlproject.Form1.resources
+C:\Users\wadi\source\repos\MySqlproject\obj\Debug\MySqlproject.Properties.Resources.resources
+C:\Users\wadi\source\repos\MySqlproject\obj\Debug\MySqlproject.csproj.GenerateResource.cache
+C:\Users\wadi\source\repos\MySqlproject\obj\Debug\MySqlproject.csproj.CoreCompileInputs.cache
+C:\Users\wadi\source\repos\MySqlproject\obj\Debug\MySqlproject.csproj.CopyComplete
+C:\Users\wadi\source\repos\MySqlproject\obj\Debug\MySqlproject.exe
+C:\Users\wadi\source\repos\MySqlproject\obj\Debug\MySqlproject.pdb
