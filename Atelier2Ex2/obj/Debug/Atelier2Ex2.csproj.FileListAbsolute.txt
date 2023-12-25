@@ -1,0 +1,11 @@
+C:\Users\wadi\source\repos\Atelier2Ex2\obj\Debug\Atelier2Ex2.csproj.AssemblyReference.cache
+C:\Users\wadi\source\repos\Atelier2Ex2\obj\Debug\FormulaireAvecTableau.Form1.resources
+C:\Users\wadi\source\repos\Atelier2Ex2\obj\Debug\Atelier2Ex2.Properties.Resources.resources
+C:\Users\wadi\source\repos\Atelier2Ex2\obj\Debug\Atelier2Ex2.csproj.GenerateResource.cache
+C:\Users\wadi\source\repos\Atelier2Ex2\obj\Debug\Atelier2Ex2.csproj.CoreCompileInputs.cache
+C:\Users\wadi\source\repos\Atelier2Ex2\bin\Debug\Atelier2Ex2.exe.config
+C:\Users\wadi\source\repos\Atelier2Ex2\bin\Debug\Atelier2Ex2.exe
+C:\Users\wadi\source\repos\Atelier2Ex2\bin\Debug\Atelier2Ex2.pdb
+C:\Users\wadi\source\repos\Atelier2Ex2\obj\Debug\Atelier2Ex2.exe
+C:\Users\wadi\source\repos\Atelier2Ex2\obj\Debug\Atelier2Ex2.pdb
+C:\Users\wadi\source\repos\Atelier2Ex2\obj\Debug\Atelier2Ex2.Form2.resources

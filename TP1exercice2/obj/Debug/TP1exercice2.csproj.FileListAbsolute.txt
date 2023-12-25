@@ -1,0 +1,10 @@
+C:\Users\wadi\source\repos\TP1exercice2\obj\Debug\TP1exercice2.csproj.AssemblyReference.cache
+C:\Users\wadi\source\repos\TP1exercice2\obj\Debug\TP1exercice2.Form1.resources
+C:\Users\wadi\source\repos\TP1exercice2\obj\Debug\TP1exercice2.Properties.Resources.resources
+C:\Users\wadi\source\repos\TP1exercice2\obj\Debug\TP1exercice2.csproj.GenerateResource.cache
+C:\Users\wadi\source\repos\TP1exercice2\obj\Debug\TP1exercice2.csproj.CoreCompileInputs.cache
+C:\Users\wadi\source\repos\TP1exercice2\bin\Debug\TP1exercice2.exe.config
+C:\Users\wadi\source\repos\TP1exercice2\bin\Debug\TP1exercice2.exe
+C:\Users\wadi\source\repos\TP1exercice2\bin\Debug\TP1exercice2.pdb
+C:\Users\wadi\source\repos\TP1exercice2\obj\Debug\TP1exercice2.exe
+C:\Users\wadi\source\repos\TP1exercice2\obj\Debug\TP1exercice2.pdb

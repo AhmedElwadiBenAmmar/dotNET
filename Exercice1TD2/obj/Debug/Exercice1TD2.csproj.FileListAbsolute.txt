@@ -1,0 +1,10 @@
+C:\Users\wadi\source\repos\Exercice1TD2\bin\Debug\Exercice1TD2.exe.config
+C:\Users\wadi\source\repos\Exercice1TD2\bin\Debug\Exercice1TD2.exe
+C:\Users\wadi\source\repos\Exercice1TD2\bin\Debug\Exercice1TD2.pdb
+C:\Users\wadi\source\repos\Exercice1TD2\obj\Debug\Exercice1TD2.csproj.AssemblyReference.cache
+C:\Users\wadi\source\repos\Exercice1TD2\obj\Debug\Exercice1TD2.Form1.resources
+C:\Users\wadi\source\repos\Exercice1TD2\obj\Debug\Exercice1TD2.Properties.Resources.resources
+C:\Users\wadi\source\repos\Exercice1TD2\obj\Debug\Exercice1TD2.csproj.GenerateResource.cache
+C:\Users\wadi\source\repos\Exercice1TD2\obj\Debug\Exercice1TD2.csproj.CoreCompileInputs.cache
+C:\Users\wadi\source\repos\Exercice1TD2\obj\Debug\Exercice1TD2.exe
+C:\Users\wadi\source\repos\Exercice1TD2\obj\Debug\Exercice1TD2.pdb

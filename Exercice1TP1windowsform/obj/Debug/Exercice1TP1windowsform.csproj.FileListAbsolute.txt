@@ -1,0 +1,10 @@
+C:\Users\wadi\source\repos\Exercice1TP1windowsform\bin\Debug\Exercice1TP1windowsform.exe.config
+C:\Users\wadi\source\repos\Exercice1TP1windowsform\bin\Debug\Exercice1TP1windowsform.exe
+C:\Users\wadi\source\repos\Exercice1TP1windowsform\bin\Debug\Exercice1TP1windowsform.pdb
+C:\Users\wadi\source\repos\Exercice1TP1windowsform\obj\Debug\Exercice1TP1windowsform.csproj.AssemblyReference.cache
+C:\Users\wadi\source\repos\Exercice1TP1windowsform\obj\Debug\Exercice1TP1windowsform.Form1.resources
+C:\Users\wadi\source\repos\Exercice1TP1windowsform\obj\Debug\Exercice1TP1windowsform.Properties.Resources.resources
+C:\Users\wadi\source\repos\Exercice1TP1windowsform\obj\Debug\Exercice1TP1windowsform.csproj.GenerateResource.cache
+C:\Users\wadi\source\repos\Exercice1TP1windowsform\obj\Debug\Exercice1TP1windowsform.csproj.CoreCompileInputs.cache
+C:\Users\wadi\source\repos\Exercice1TP1windowsform\obj\Debug\Exercice1TP1windowsform.exe
+C:\Users\wadi\source\repos\Exercice1TP1windowsform\obj\Debug\Exercice1TP1windowsform.pdb

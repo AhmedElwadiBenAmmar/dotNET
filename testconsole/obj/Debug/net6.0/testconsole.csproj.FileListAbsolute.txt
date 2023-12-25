@@ -1,0 +1,14 @@
+C:\Users\wadi\source\repos\testconsole\bin\Debug\net6.0\testconsole.exe
+C:\Users\wadi\source\repos\testconsole\bin\Debug\net6.0\testconsole.deps.json
+C:\Users\wadi\source\repos\testconsole\bin\Debug\net6.0\testconsole.runtimeconfig.json
+C:\Users\wadi\source\repos\testconsole\bin\Debug\net6.0\testconsole.dll
+C:\Users\wadi\source\repos\testconsole\bin\Debug\net6.0\testconsole.pdb
+C:\Users\wadi\source\repos\testconsole\obj\Debug\net6.0\testconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wadi\source\repos\testconsole\obj\Debug\net6.0\testconsole.AssemblyInfoInputs.cache
+C:\Users\wadi\source\repos\testconsole\obj\Debug\net6.0\testconsole.AssemblyInfo.cs
+C:\Users\wadi\source\repos\testconsole\obj\Debug\net6.0\testconsole.csproj.CoreCompileInputs.cache
+C:\Users\wadi\source\repos\testconsole\obj\Debug\net6.0\testconsole.dll
+C:\Users\wadi\source\repos\testconsole\obj\Debug\net6.0\refint\testconsole.dll
+C:\Users\wadi\source\repos\testconsole\obj\Debug\net6.0\testconsole.pdb
+C:\Users\wadi\source\repos\testconsole\obj\Debug\net6.0\testconsole.genruntimeconfig.cache
+C:\Users\wadi\source\repos\testconsole\obj\Debug\net6.0\ref\testconsole.dll

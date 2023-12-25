@@ -1,0 +1,10 @@
+C:\Users\wadi\source\repos\Monpremierprojet\bin\Debug\Monpremierprojet.exe.config
+C:\Users\wadi\source\repos\Monpremierprojet\bin\Debug\Monpremierprojet.exe
+C:\Users\wadi\source\repos\Monpremierprojet\bin\Debug\Monpremierprojet.pdb
+C:\Users\wadi\source\repos\Monpremierprojet\obj\Debug\Monpremierprojet.csproj.AssemblyReference.cache
+C:\Users\wadi\source\repos\Monpremierprojet\obj\Debug\Monpremierprojet.Form1.resources
+C:\Users\wadi\source\repos\Monpremierprojet\obj\Debug\Monpremierprojet.Properties.Resources.resources
+C:\Users\wadi\source\repos\Monpremierprojet\obj\Debug\Monpremierprojet.csproj.GenerateResource.cache
+C:\Users\wadi\source\repos\Monpremierprojet\obj\Debug\Monpremierprojet.csproj.CoreCompileInputs.cache
+C:\Users\wadi\source\repos\Monpremierprojet\obj\Debug\Monpremierprojet.exe
+C:\Users\wadi\source\repos\Monpremierprojet\obj\Debug\Monpremierprojet.pdb

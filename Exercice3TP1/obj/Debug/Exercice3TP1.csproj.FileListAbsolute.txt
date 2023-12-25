@@ -1,0 +1,6 @@
+C:\Users\wadi\source\repos\Exercice3TP1\obj\Debug\Exercice3TP1.csproj.AssemblyReference.cache
+C:\Users\wadi\source\repos\Exercice3TP1\obj\Debug\ApplicationNote.Form1.resources
+C:\Users\wadi\source\repos\Exercice3TP1\obj\Debug\Exercice3TP1.Properties.Resources.resources
+C:\Users\wadi\source\repos\Exercice3TP1\obj\Debug\Exercice3TP1.csproj.GenerateResource.cache
+C:\Users\wadi\source\repos\Exercice3TP1\obj\Debug\Exercice3TP1.csproj.CoreCompileInputs.cache
+C:\Users\wadi\source\repos\Exercice3TP1\obj\Debug\Exercice3TP1.Form1.resources

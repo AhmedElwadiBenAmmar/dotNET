@@ -1,0 +1,10 @@
+C:\Users\wadi\source\repos\Win1\obj\Debug\Win1.csproj.AssemblyReference.cache
+C:\Users\wadi\source\repos\Win1\obj\Debug\Win1.Form1.resources
+C:\Users\wadi\source\repos\Win1\obj\Debug\Win1.Properties.Resources.resources
+C:\Users\wadi\source\repos\Win1\obj\Debug\Win1.csproj.GenerateResource.cache
+C:\Users\wadi\source\repos\Win1\obj\Debug\Win1.csproj.CoreCompileInputs.cache
+C:\Users\wadi\source\repos\Win1\bin\Debug\Win1.exe.config
+C:\Users\wadi\source\repos\Win1\bin\Debug\Win1.exe
+C:\Users\wadi\source\repos\Win1\bin\Debug\Win1.pdb
+C:\Users\wadi\source\repos\Win1\obj\Debug\Win1.exe
+C:\Users\wadi\source\repos\Win1\obj\Debug\Win1.pdb

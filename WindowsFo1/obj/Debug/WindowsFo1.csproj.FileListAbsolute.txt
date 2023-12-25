@@ -1,0 +1,11 @@
+C:\Users\wadi\source\repos\WindowsFo1\bin\Debug\WindowsFo1.exe.config
+C:\Users\wadi\source\repos\WindowsFo1\bin\Debug\WindowsFo1.exe
+C:\Users\wadi\source\repos\WindowsFo1\bin\Debug\WindowsFo1.pdb
+C:\Users\wadi\source\repos\WindowsFo1\obj\Debug\WindowsFo1.csproj.AssemblyReference.cache
+C:\Users\wadi\source\repos\WindowsFo1\obj\Debug\WindowsFo1.Form1.resources
+C:\Users\wadi\source\repos\WindowsFo1\obj\Debug\WindowsFo1.Properties.Resources.resources
+C:\Users\wadi\source\repos\WindowsFo1\obj\Debug\WindowsFo1.csproj.GenerateResource.cache
+C:\Users\wadi\source\repos\WindowsFo1\obj\Debug\WindowsFo1.csproj.CoreCompileInputs.cache
+C:\Users\wadi\source\repos\WindowsFo1\obj\Debug\WindowsFo1.exe
+C:\Users\wadi\source\repos\WindowsFo1\obj\Debug\WindowsFo1.pdb
+C:\Users\wadi\source\repos\WindowsFo1\obj\Debug\CalculSurfaceTriangle.Form1.resources
